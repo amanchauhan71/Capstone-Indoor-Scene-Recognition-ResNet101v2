@@ -3,7 +3,7 @@
 ## Final Web Application :
 ![finalimage](https://user-images.githubusercontent.com/61115039/161431485-8d36faaf-d31e-49e2-be50-037a918d068f.PNG)
 
-## Web application Link of AZURE Cloud : https://indoorfound.azurewebsites.net/
+## Web application Link of AZURE Cloud: https://indoorfound.azurewebsites.net/
 
 
 ## Description :
